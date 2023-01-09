@@ -21,7 +21,7 @@ Após todos esses stages, é enviada uma notificação por e-mail informando que
 
 Além disso, foram configuradas notificações pelo slack, para quando iniciar e finalizar o JOB, enviar uma notificação. Por último, foi instalado o Jenkins Blue Ocean, para uma melhor experiência do usuário utilizando o Jenkins. 
 
-Por fim, as imagens do projeto estão anexadas. 
+Por fim, as imagens do projeto estão anexadas no repositirio. 
 
 Referencias: Curso de Jenkins básico para Sysadmins e Developers do professor Tainã ROHWEDER
 
